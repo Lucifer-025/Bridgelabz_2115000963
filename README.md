@@ -35,3 +35,7 @@
 - Learned about basic OOPS and operators Access modifiers.
 - Submitted Assignment 17 on OOPS Concept and specifiers.
 ---
+## 6 FEB 2025
+- Learned about object modeling(Object Relationship and Communiction).
+- Submmitted Assignment 18 on Object Relationship and Communication.
+---
