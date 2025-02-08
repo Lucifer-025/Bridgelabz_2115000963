@@ -37,5 +37,9 @@
 ---
 ## 6 FEB 2025
 - Learned about object modeling(Object Relationship and Communiction).
-- Submmitted Assignment 18 on Object Relationship and Communication.
+- Submitted Assignment 18 on Object Relationship and Communication.
+---
+## 8 FEB 2025
+- Learned about many types of Inheritance and practiced.
+- Submitted Assignment 19 on Inheritance.
 ---
