@@ -43,3 +43,6 @@
 - Learned about many types of Inheritance and practiced.
 - Submitted Assignment 19 on Inheritance.
 ---
+## 10 FEB 2025
+- Learned about OOPS Concep Encapsulation polymorphism Inheritance abstract class.
+- Submitted Assignment 20 on OOPS concept and abstract.
