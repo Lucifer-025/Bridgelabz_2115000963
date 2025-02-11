@@ -46,3 +46,8 @@
 ## 10 FEB 2025
 - Learned about OOPS Concep Encapsulation polymorphism Inheritance abstract class.
 - Submitted Assignment 20 on OOPS concept and abstract.
+---
+## 11 FEB 2025
+- Learned about LinkedList Implementation and it its types.
+- Submitted Assignment 21 on Linkedlist.
+---
