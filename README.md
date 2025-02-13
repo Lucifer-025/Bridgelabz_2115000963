@@ -51,3 +51,7 @@
 - Learned about LinkedList Implementation and it its types.
 - Submitted Assignment 21 on Linkedlist.
 ---
+## 13 FEB 2025
+- Learned about Stack Queue Hashmap(Dictionary) and their implemantation.
+- Submitted Assignment 22 on Stack Queue Hashmap(Dictionary).
+---
