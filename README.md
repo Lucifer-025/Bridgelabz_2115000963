@@ -44,7 +44,7 @@
 - Submitted Assignment 19 on Inheritance.
 ---
 ## 10 FEB 2025
-- Learned about OOPS Concep Encapsulation polymorphism Inheritance abstract class.
+- Learned about OOPS Concept Encapsulation polymorphism Inheritance abstract class.
 - Submitted Assignment 20 on OOPS concept and abstract.
 ---
 ## 11 FEB 2025
@@ -54,4 +54,8 @@
 ## 13 FEB 2025
 - Learned about Stack Queue Hashmap(Dictionary) and their implemantation.
 - Submitted Assignment 22 on Stack Queue Hashmap(Dictionary).
+---
+## 14 FEB 2025
+- Learned about Sorting Algorithms and their implemantation.
+- Submitted Assignment 23 Sorting Algorithms.
 ---
