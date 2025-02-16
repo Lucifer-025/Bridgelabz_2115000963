@@ -61,9 +61,9 @@
 ---
 ## 15 FEB 2025
 - Learned about StringBuilder, StreamReader, Searching and their implemantation.
-- Submitted Assignment 24(PART-2) tringBuilder, StreamReader, Searching Algorithms.
+- Submitted Assignment 24(PART-1) tringBuilder, StreamReader, Searching Algorithms.
 ---
 ## 16 FEB 2025
 - Learned about StringBuilder, StreamReader, Searching and their implemantation.
-- Submitted Assignment 24(PART-1) tringBuilder, StreamReader, Searching Algorithms.
+- Submitted Assignment 24(PART-2) tringBuilder, StreamReader, Searching Algorithms.
 ---
