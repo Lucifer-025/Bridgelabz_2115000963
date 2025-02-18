@@ -71,3 +71,7 @@
 - Learned about Algorithm's runtime analysis and their implemantation.
 - Submitted Assignment 25 on Algorithm's runtime analysis.
 ---
+## 18 FEB 2025
+- Learned about Generics and their implemantation.
+- Submitted Assignment 26 on Generics.
+---
