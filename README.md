@@ -75,3 +75,7 @@
 - Learned about Generics and their implemantation.
 - Submitted Assignment 26 on Generics.
 ---
+## 19 FEB 2025
+- Learned about Collections and their implemantation.
+- Submitted Assignment 27 on Collections.
+---
