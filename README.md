@@ -79,3 +79,7 @@
 - Learned about Collections and their implemantation.
 - Submitted Assignment 27 on Collections.
 ---
+## 20 FEB 2025
+- Learned about Streams and their implemantation.
+- Submitted Assignment 28 on Streams.
+---
