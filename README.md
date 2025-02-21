@@ -83,3 +83,7 @@
 - Learned about Streams and their implemantation.
 - Submitted Assignment 28 on Streams.
 ---
+## 21 FEB 2025
+- Learned about Exceptions and their implemantation.
+- Submitted Assignment 29 on Exceptions.
+---
