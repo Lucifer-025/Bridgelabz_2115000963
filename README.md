@@ -87,3 +87,7 @@
 - Learned about Exceptions and their implemantation.
 - Submitted Assignment 29 on Exceptions.
 ---
+## 22 FEB 2025
+- Learned about Nunit&Munit and Regex Expression and their implemantation.
+- Submitted Assignment 30,31 on Nunit&Munit and Regex Expression.
+---
