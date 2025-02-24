@@ -91,3 +91,11 @@
 - Learned about Nunit&Munit and Regex Expression and their implemantation.
 - Submitted Assignment 30,31 on Nunit&Munit and Regex Expression.
 ---
+## 23 FEB 2025
+- Learned about Annotation and their implemantation.
+- Submitted Assignment 31 on Annotation.
+---
+## 24 FEB 2025
+- Learned about  Reflection and their implemantation.
+- Submitted Assignment 32 on Reflection.
+---
