@@ -99,3 +99,7 @@
 - Learned about  Reflection and their implemantation.
 - Submitted Assignment 32 on Reflection.
 ---
+## 25 FEB 2025
+- Learned about  CSV Data Handling and their implemantation.
+- Submitted Assignment 33 on CSV Data Handling.
+---
