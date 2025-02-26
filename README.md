@@ -103,3 +103,7 @@
 - Learned about  CSV Data Handling and their implemantation.
 - Submitted Assignment 33 on CSV Data Handling.
 ---
+## 26 FEB 2025
+- Learned about JSON File Handling and their implemantation.
+- Submitted Assignment 34 on JSON File Handling.
+---
