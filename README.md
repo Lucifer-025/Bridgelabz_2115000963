@@ -103,7 +103,6 @@
 - Learned about  CSV Data Handling and their implemantation.
 - Submitted Assignment 33 on CSV Data Handling.
 ---
-
 ## 27 FEB 2025
 - Learned about WEB API and their implemantation.
 ---
@@ -111,3 +110,8 @@
 - Learned about JSON WEB API and their implemantation.
 - Submitted Assignment 34 on WEB API. 
 ---
+## 29 FEB 2025
+- Learned about ORM - Entity Framework and their implemantation.
+- Submitted Assignment 35 on ORM - Entity Framework. 
+---
+
