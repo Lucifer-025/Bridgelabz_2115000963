@@ -110,8 +110,16 @@
 - Learned about JSON WEB API and their implemantation.
 - Submitted Assignment 34 on WEB API. 
 ---
-## 29 FEB 2025
+## 01 MAR 2025
 - Learned about ORM - Entity Framework and their implemantation.
 - Submitted Assignment 35 on ORM - Entity Framework. 
 ---
+## 02 MAR 2025
+- Learned about N-logger and their implemantation.
+---
+## 03 MAR 2025
+- Learned about API Swager UI and N-logger  and their implemantation.
+- Submitted Assignment 36 on API Swager UI and N-logger. 
+---
+
 
