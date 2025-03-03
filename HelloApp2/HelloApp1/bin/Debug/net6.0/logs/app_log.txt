@@ -1,0 +1,334 @@
+2025-03-03 14:17:06.2865|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 14:17:08.5544|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 14:17:08.5695|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 14:17:08.6892|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 14:17:08.6892|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 14:17:08.6892|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 14:17:15.2899|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger - -
+2025-03-03 14:17:17.6289|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 14:17:17.6289|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger - - - 301 0 - 2342.0844ms
+2025-03-03 14:17:18.0908|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 460.9332ms
+2025-03-03 14:17:18.1806|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/swagger-ui-bundle.js - -
+2025-03-03 14:17:18.1806|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/swagger-ui-standalone-preset.js - -
+2025-03-03 14:17:18.1806|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.css - -
+2025-03-03 14:17:18.1806|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/swagger-ui.css - -
+2025-03-03 14:17:18.1806|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 14:17:18.2056|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 14:17:18.2056|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_vs/browserLink - -
+2025-03-03 14:17:18.2056|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 37.2582ms
+2025-03-03 14:17:18.2300|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 24.3405ms
+2025-03-03 14:17:18.2498|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-03-03 14:17:18.2626|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.css - - - 200 202 text/css 81.4428ms
+2025-03-03 14:17:18.2626|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-03 14:17:18.2824|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/swagger-ui.css - - - 200 154948 text/css 101.1525ms
+2025-03-03 14:17:18.2824|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-03 14:17:18.3009|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/swagger-ui-standalone-preset.js - - - 200 229223 application/javascript 120.0519ms
+2025-03-03 14:17:18.3518|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-03 14:17:18.3518|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/swagger-ui-bundle.js - - - 200 1466324 application/javascript 171.7208ms
+2025-03-03 14:17:18.3984|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 183.2650ms
+2025-03-03 14:17:18.7807|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 14:17:18.7894|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.6313ms
+2025-03-03 14:17:18.8246|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/favicon-32x32.png - -
+2025-03-03 14:17:18.8246|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-03-03 14:17:18.8246|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/favicon-32x32.png - - - 200 628 image/png 0.8315ms
+2025-03-03 21:41:29.6771|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 21:41:31.5029|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 21:41:31.5132|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 21:41:31.5763|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 21:41:31.5763|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 21:41:31.5763|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 21:41:34.0319|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 21:41:35.0406|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 1039.8390ms
+2025-03-03 21:41:35.1538|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 21:41:35.1538|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 21:41:35.1538|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 3.5906ms
+2025-03-03 21:41:35.1642|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 10.1529ms
+2025-03-03 21:41:36.5568|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 21:41:36.5676|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.8528ms
+2025-03-03 22:13:46.4151|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:13:48.6194|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:13:48.6327|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:13:48.7150|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:13:48.7150|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:13:48.7150|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:13:50.6641|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:13:51.9391|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 1278.5978ms
+2025-03-03 22:13:52.0471|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:13:52.0471|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:13:52.0527|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 5.4320ms
+2025-03-03 22:13:52.0527|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 14.7294ms
+2025-03-03 22:13:52.2644|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:13:52.2791|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.7604ms
+2025-03-03 22:17:06.0941|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/api/Customer application/json 70
+2025-03-03 22:17:06.1017|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:17:06.1477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Customer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(HelloApp1.Entities.Customer) on controller HelloApp1.Controllers.CustomerController (HelloApp1).
+2025-03-03 22:20:19.5672|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:20:20.5097|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:20:20.5097|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:20:20.5705|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:20:20.5705|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:20:20.5705|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:20:24.4002|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:20:24.8504|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 456.5676ms
+2025-03-03 22:20:25.0761|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:20:25.0761|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:20:25.0846|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 8.3103ms
+2025-03-03 22:20:25.0846|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 17.0496ms
+2025-03-03 22:20:25.3114|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:20:25.3268|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 15.3756ms
+2025-03-03 22:22:08.2521|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/api/Customer application/json 68
+2025-03-03 22:22:08.2702|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:22:08.3391|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Customer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(HelloApp1.Entities.Customer) on controller HelloApp1.Controllers.CustomerController (HelloApp1).
+2025-03-03 22:24:20.4995|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:24:21.3226|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:24:21.3226|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:24:21.3832|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:24:21.3832|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:24:21.3832|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:24:23.9281|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:24:24.6591|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 737.2712ms
+2025-03-03 22:24:24.7981|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:24:24.7981|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:24:24.8140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 15.9497ms
+2025-03-03 22:24:24.8212|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 21.7684ms
+2025-03-03 22:24:25.0599|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:24:25.0763|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 16.2780ms
+2025-03-03 22:24:53.7720|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/api/Customer application/json 67
+2025-03-03 22:24:53.7720|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:24:53.8255|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Customer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(HelloApp1.Entities.Customer) on controller HelloApp1.Controllers.CustomerController (HelloApp1).
+2025-03-03 22:24:54.4537|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-03-03 22:24:54.4678|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action HelloApp1.Controllers.CustomerController.Create (HelloApp1) in 634.379ms
+2025-03-03 22:24:54.4678|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:24:54.4678|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7080/api/Customer application/json 67 - 400 - application/problem+json;+charset=utf-8 696.9047ms
+2025-03-03 22:26:18.1508|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:26:18.9544|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:26:18.9640|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:26:19.0198|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:26:19.0198|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:26:19.0198|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:26:24.5819|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:26:25.6252|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 1046.8263ms
+2025-03-03 22:26:25.8107|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:26:25.8107|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:26:25.8167|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 6.0077ms
+2025-03-03 22:26:25.8486|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 37.0026ms
+2025-03-03 22:26:26.0681|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:26:26.0832|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 15.0231ms
+2025-03-03 22:27:19.1096|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/api/Customer application/json 68
+2025-03-03 22:27:19.2040|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:27:19.2550|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Customer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(HelloApp1.Entities.Customer) on controller HelloApp1.Controllers.CustomerController (HelloApp1).
+2025-03-03 22:27:19.6573|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-03-03 22:27:19.6649|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action HelloApp1.Controllers.CustomerController.Create (HelloApp1) in 405.5862ms
+2025-03-03 22:27:19.6649|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:27:19.6649|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7080/api/Customer application/json 68 - 400 - application/problem+json;+charset=utf-8 555.8307ms
+2025-03-03 22:28:38.5233|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:28:39.3923|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:28:39.3989|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:28:39.4384|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:28:39.4384|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:28:39.4384|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:28:42.8808|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:28:43.7844|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 909.1959ms
+2025-03-03 22:28:43.9815|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:28:43.9815|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:28:43.9930|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 11.3134ms
+2025-03-03 22:28:44.0099|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 27.8292ms
+2025-03-03 22:28:44.2469|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:28:44.2662|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 19.2171ms
+2025-03-03 22:29:34.2457|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/Hello application/json 55
+2025-03-03 22:29:34.2590|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.HelloController.LoginUser (HelloApp1)'
+2025-03-03 22:29:34.2937|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "LoginUser", controller = "Hello"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LoginUser(ModelLayer.DTO.LoginDTO) on controller HelloApp1.Controllers.HelloController (HelloApp1).
+2025-03-03 22:29:34.3510|INFO|HelloApp1.Controllers.HelloController|POST request received for LoginUser.
+2025-03-03 22:29:34.3510|INFO|BusinessLayer.Service.RegisterHelloBL|LoginUser method called.
+2025-03-03 22:29:34.3510|INFO|RepositoryLayer.Service.RegisterHelloRL|getUsernamePassword called
+2025-03-03 22:29:34.3510|WARN|BusinessLayer.Service.RegisterHelloBL|Login failed for user Shivansh.
+2025-03-03 22:29:34.3510|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing NotFoundObjectResult, writing value of type 'ModelLayer.DTO.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-03-03 22:29:34.3698|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action HelloApp1.Controllers.HelloController.LoginUser (HelloApp1) in 70.902ms
+2025-03-03 22:29:34.3698|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'HelloApp1.Controllers.HelloController.LoginUser (HelloApp1)'
+2025-03-03 22:29:34.3698|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7080/Hello application/json 55 - 404 - application/json;+charset=utf-8 124.5929ms
+2025-03-03 22:37:31.9629|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:37:32.1721|ERROR|HelloApp1.Program|Application failed to start due to an error.|System.IO.InvalidDataException: Failed to load configuration from file 'C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\appsettings.json'.
+ ---> System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '"' is invalid after a value. Expected either ',', '}', or ']'. LineNumber: 3 | BytePositionInLine: 8.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedArrayPoolBytes, PooledByteBufferWriter extraPooledByteBufferWriter)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, IFileProvider provider, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.<>c__DisplayClass11_0.<ConfigureDefaults>b__1(HostBuilderContext hostingContext, IConfigurationBuilder config)
+   at Microsoft.AspNetCore.Hosting.BootstrapHostBuilder.RunDefaultCallbacks(ConfigurationManager configuration, HostBuilder innerBuilder)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\Program.cs:line 22
+2025-03-03 22:37:53.9377|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:37:54.1580|ERROR|HelloApp1.Program|Application failed to start due to an error.|System.IO.InvalidDataException: Failed to load configuration from file 'C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\appsettings.json'.
+ ---> System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '"' is invalid after a value. Expected either ',', '}', or ']'. LineNumber: 3 | BytePositionInLine: 8.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedArrayPoolBytes, PooledByteBufferWriter extraPooledByteBufferWriter)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, IFileProvider provider, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.<>c__DisplayClass11_0.<ConfigureDefaults>b__1(HostBuilderContext hostingContext, IConfigurationBuilder config)
+   at Microsoft.AspNetCore.Hosting.BootstrapHostBuilder.RunDefaultCallbacks(ConfigurationManager configuration, HostBuilder innerBuilder)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\Program.cs:line 22
+2025-03-03 22:44:28.0746|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:44:28.3192|ERROR|HelloApp1.Program|Application failed to start due to an error.|System.IO.InvalidDataException: Failed to load configuration from file 'C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\appsettings.json'.
+ ---> System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '"' is invalid after a value. Expected either ',', '}', or ']'. LineNumber: 3 | BytePositionInLine: 8.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedArrayPoolBytes, PooledByteBufferWriter extraPooledByteBufferWriter)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, IFileProvider provider, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.<>c__DisplayClass11_0.<ConfigureDefaults>b__1(HostBuilderContext hostingContext, IConfigurationBuilder config)
+   at Microsoft.AspNetCore.Hosting.BootstrapHostBuilder.RunDefaultCallbacks(ConfigurationManager configuration, HostBuilder innerBuilder)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\Program.cs:line 25
+2025-03-03 22:46:00.9757|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:46:01.0340|ERROR|HelloApp1.Program|Application failed to start due to an error.|System.IO.InvalidDataException: Failed to load configuration from file 'C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\appsettings.json'.
+ ---> System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '"' is invalid after a value. Expected either ',', '}', or ']'. LineNumber: 3 | BytePositionInLine: 8.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedArrayPoolBytes, PooledByteBufferWriter extraPooledByteBufferWriter)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, IFileProvider provider, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.<>c__DisplayClass11_0.<ConfigureDefaults>b__1(HostBuilderContext hostingContext, IConfigurationBuilder config)
+   at Microsoft.AspNetCore.Hosting.BootstrapHostBuilder.RunDefaultCallbacks(ConfigurationManager configuration, HostBuilder innerBuilder)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\Program.cs:line 25
+2025-03-03 22:46:04.1319|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:46:04.3631|ERROR|HelloApp1.Program|Application failed to start due to an error.|System.IO.InvalidDataException: Failed to load configuration from file 'C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\appsettings.json'.
+ ---> System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '"' is invalid after a value. Expected either ',', '}', or ']'. LineNumber: 3 | BytePositionInLine: 8.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedArrayPoolBytes, PooledByteBufferWriter extraPooledByteBufferWriter)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, IFileProvider provider, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.<>c__DisplayClass11_0.<ConfigureDefaults>b__1(HostBuilderContext hostingContext, IConfigurationBuilder config)
+   at Microsoft.AspNetCore.Hosting.BootstrapHostBuilder.RunDefaultCallbacks(ConfigurationManager configuration, HostBuilder innerBuilder)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\Program.cs:line 25
+2025-03-03 22:46:45.6827|INFO|HelloApp1.Program|Application is starting...
+2025-03-03 22:46:46.7497|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7080
+2025-03-03 22:46:46.7733|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5223
+2025-03-03 22:46:47.0753|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 22:46:47.0753|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2025-03-03 22:46:47.0753|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\pc\Desktop\C# Programs\HelloApp2\HelloApp1\
+2025-03-03 22:46:49.2605|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.html - -
+2025-03-03 22:46:50.1313|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.html - - - 200 - text/html;charset=utf-8 877.9178ms
+2025-03-03 22:46:50.3126|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/index.js - -
+2025-03-03 22:46:50.3126|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - -
+2025-03-03 22:46:50.3212|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/index.js - - - 200 - application/javascript;charset=utf-8 8.5506ms
+2025-03-03 22:46:50.3212|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 17.0346ms
+2025-03-03 22:46:50.5682|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - -
+2025-03-03 22:46:50.5856|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 17.3511ms
+2025-03-03 22:49:12.3060|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7080/api/Customer application/json 68
+2025-03-03 22:49:12.3060|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:49:12.3586|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Customer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(HelloApp1.Entities.Customer) on controller HelloApp1.Controllers.CustomerController (HelloApp1).
+2025-03-03 22:49:12.7451|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-03-03 22:49:12.7451|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action HelloApp1.Controllers.CustomerController.Create (HelloApp1) in 389.8265ms
+2025-03-03 22:49:12.7451|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'HelloApp1.Controllers.CustomerController.Create (HelloApp1)'
+2025-03-03 22:49:12.7451|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7080/api/Customer application/json 68 - 400 - application/problem+json;+charset=utf-8 447.2688ms

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\helloapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:helloapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE907F-3A2F-460C-B717-D072819BC84E}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|c:\\users\\pc\\desktop\\c# programs\\helloapp2\\helloapp1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529C1190-9EC4-40A7-B356-508C49E17D43}|HelloApp1.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:45:24.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:51:29.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Data\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Data\\MongoDBService.cs",
+              "RelativeToolTip": "Data\\MongoDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:29:45.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloApp1",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\HelloApp1.csproj",
+              "RelativeDocumentMoniker": "HelloApp1.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\HelloApp1.csproj",
+              "RelativeToolTip": "HelloApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T14:28:46.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:50:49.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T08:48:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T08:48:32.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:46:32.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\C# Programs\\HelloApp2\\HelloApp1\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:56:27.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
