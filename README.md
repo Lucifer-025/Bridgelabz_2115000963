@@ -121,5 +121,16 @@
 - Learned about API Swager UI and N-logger  and their implemantation.
 - Submitted Assignment 36 on API Swager UI and N-logger. 
 ---
+## 04 MAR 2025
+- Learned about use case and their implemantation.
+- Submitted Assignment 37 on Use cases. 
+---
+## 05 MAR 2025
+- Learned about API Swager UI and N-logger  and their implemantation. 
+---
+## 06 MAR 2025
+- Learned about Redis Cache and their implemantation.
+- Submitted Assignment 38 on Redis Cache. 
+---
 
 
