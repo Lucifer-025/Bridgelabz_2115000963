@@ -132,5 +132,9 @@
 - Learned about Redis Cache and their implemantation.
 - Submitted Assignment 38 on Redis Cache. 
 ---
+## 18 MAR 2025
+- Learned about Node js and their implemantation.
+- Submitted Assignment 40 on Redis Cache. 
+---
 
 
