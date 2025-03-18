@@ -132,9 +132,13 @@
 - Learned about Redis Cache and their implemantation.
 - Submitted Assignment 38 on Redis Cache. 
 ---
-## 18 MAR 2025
+## 17 MAR 2025
 - Learned about Node js and their implemantation.
 - Submitted Assignment 40 on Redis Cache. 
+---
+## 18 MAR 2025
+- Learned about  Array and Dictionary and their implemantation.
+- Submitted Assignment 41 part 1 on Array and Dictionary with JAVASCRIPT. 
 ---
 
 
